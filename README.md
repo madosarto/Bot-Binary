@@ -1,1 +1,2 @@
-# botv1.xml
+NB : Script ini bukan buatan saya...
+     saya hanya memodifikasinya saja
